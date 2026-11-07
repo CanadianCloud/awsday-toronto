@@ -37,3 +37,7 @@ The footer links to `past-events/index.html`. The 2026 card opens the locally pr
 The 2026 archive was built from CanadianCloud/awsday.github.io commit `e3238b0177c67a8b073750cf0ff72b57609ffbd3` with Next.js 14.2.5, static export and base path `/past-events/2026`. Root asset paths were moved under the archive; linked resources, fonts and video are stored locally. The original repository and live awsday.ca were not modified. See `past-events/2026/provenance.json` for the capture date and source HTML hash.
 
 The archive notice, closed-registration dialog and `noindex,follow` metadata distinguish this historical promotional website from a current event. Original event content and visual design are retained. Update the archive index to add future years; keep existing year folders unchanged.
+
+## Site credits
+
+The footer identifies CPCA as the site funder and HackerRivals as the site administrator, linking to canadiancloud.org and hackerrivals.com. CPCA logo is reused from the original AWS Day website; the HackerRivals logo is from https://hackerrivals.com/assets/images/hackerrivals-logo.png. Both are stored in `assets/`. The header city picker is an inline dropdown with keyboard navigation, Escape and outside-click dismissal.

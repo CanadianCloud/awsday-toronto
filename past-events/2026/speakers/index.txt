@@ -1,5 +1,5 @@
 2:I[6513,[],"ClientPageRoot"]
-3:I[9422,["347","static/chunks/347-7370fe3cc0c24f6e.js","597","static/chunks/597-b61851c9eff02c0b.js","875","static/chunks/app/speakers/page-0b914f9d2b6ccdef.js"],"default"]
+3:I[9422,["347","static/chunks/347-7370fe3cc0c24f6e.js","597","static/chunks/597-d67d0c7c69bdcfd5.js","875","static/chunks/app/speakers/page-0b914f9d2b6ccdef.js"],"default"]
 4:I[9275,[],""]
 5:I[1343,[],""]
 6:I[6052,["185","static/chunks/app/layout-ca64e4f70213ba6f.js"],"ScrollToHash"]

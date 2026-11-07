@@ -1,5 +1,5 @@
 2:I[6513,[],"ClientPageRoot"]
-3:I[7087,["347","static/chunks/347-7370fe3cc0c24f6e.js","63","static/chunks/63-c23125a475ea271b.js","597","static/chunks/597-b61851c9eff02c0b.js","326","static/chunks/326-5e386c8015ea14a5.js","931","static/chunks/app/page-c0a40655ac9327c2.js"],"default"]
+3:I[7087,["347","static/chunks/347-7370fe3cc0c24f6e.js","63","static/chunks/63-c23125a475ea271b.js","597","static/chunks/597-d67d0c7c69bdcfd5.js","326","static/chunks/326-5e386c8015ea14a5.js","931","static/chunks/app/page-c0a40655ac9327c2.js"],"default"]
 4:I[6052,["185","static/chunks/app/layout-ca64e4f70213ba6f.js"],"ScrollToHash"]
 5:"$Sreact.suspense"
 6:I[9275,[],""]

@@ -32,7 +32,7 @@ City artwork was generated for this design. Community photo reused from Canadian
 
 ## Past events
 
-The footer links to `past-events/index.html`. The 2026 card opens the locally preserved original awsday.ca website at `past-events/2026/`, including its speakers pages and interactive schedule. The 2025 and 2024 cards link to the existing archives on awsday.ca.
+The footer links to `past-events/index.html`. The 2026 card opens the locally preserved original awsday.ca website at `past-events/2026/`, including its speakers pages and interactive schedule. Only the Toronto 2026 event is listed. Vancouver events are archived on vancouver.awsday.ca.
 
 The 2026 archive was built from CanadianCloud/awsday.github.io commit `e3238b0177c67a8b073750cf0ff72b57609ffbd3` with Next.js 14.2.5, static export and base path `/past-events/2026`. Root asset paths were moved under the archive; linked resources, fonts and video are stored locally. The original repository and live awsday.ca were not modified. See `past-events/2026/provenance.json` for the capture date and source HTML hash.
 

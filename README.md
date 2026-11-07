@@ -1,8 +1,6 @@
 # AWS Community Day Toronto
 
-City of Builders website for https://canadiancloud.org/awsday-toronto/.
-
-Planned custom domain: https://toronto.awsday.ca.
+City of Builders website for https://toronto.awsday.ca.
 
 ## Preview
 
@@ -26,15 +24,16 @@ To publish confirmed details, replace the corresponding panel and hero copy, and
 
 GitHub Pages serves `main` from `/`. The working project URL inherits the CanadianCloud organization domain. This repo is independent of the main awsday.ca site.
 
-To enable the planned custom domain:
-
-1. Add a DNS CNAME record: `toronto.awsday.ca` to `canadiancloud.github.io`.
-2. Set the GitHub Pages custom domain to `toronto.awsday.ca` (or add a root `CNAME` file with that hostname).
-3. Once GitHub issues the certificate, enforce HTTPS.
-4. Update canonical/social metadata, robots.txt, sitemap.xml and the city links on all three sites to the custom domains.
-
-Do not attach a custom domain before its DNS record is ready; GitHub would redirect visitors to an unresolved hostname.
+The custom domain `toronto.awsday.ca` is configured through the root `CNAME` file and DNS points to `canadiancloud.github.io`.
 
 ## Assets
 
 City artwork was generated for this design. Community photo reused from CanadianCloud/awsday.github.io, public/Instagram/ig3.jpg, and captioned as a past Canadian community event. Nunito is licensed under the SIL Open Font License; see assets/OFL.txt.
+
+## Past events
+
+The footer links to `past-events/index.html`. The 2026 card opens the locally preserved original awsday.ca website at `past-events/2026/`, including its speakers pages and interactive schedule. The 2025 and 2024 cards link to the existing archives on awsday.ca.
+
+The 2026 archive was built from CanadianCloud/awsday.github.io commit `e3238b0177c67a8b073750cf0ff72b57609ffbd3` with Next.js 14.2.5, static export and base path `/past-events/2026`. Root asset paths were moved under the archive; linked resources, fonts and video are stored locally. The original repository and live awsday.ca were not modified. See `past-events/2026/provenance.json` for the capture date and source HTML hash.
+
+The archive notice, closed-registration dialog and `noindex,follow` metadata distinguish this historical promotional website from a current event. Original event content and visual design are retained. Update the archive index to add future years; keep existing year folders unchanged.

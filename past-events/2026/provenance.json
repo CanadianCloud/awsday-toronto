@@ -1,0 +1,16 @@
+{
+  "source_url": "https://awsday.ca/",
+  "source_repository": "https://github.com/CanadianCloud/awsday.github.io",
+  "source_commit": "e3238b0177c67a8b073750cf0ff72b57609ffbd3",
+  "archived_at": "2026-11-07T21:06:19.278Z",
+  "event_date": "2026-08-29",
+  "city": "Toronto",
+  "original_html_sha256": "dd8b77f8961153293b339621c837b6aaec41e6498921fae6cbb3de491d51e875",
+  "changes": [
+    "Relocated to /past-events/2026/ with locally copied assets and original compiled application.",
+    "Added archive notice and links to the current Toronto site.",
+    "Disabled historical registration forms and ticket links.",
+    "Kept existing 2024 and 2025 archive links on awsday.ca.",
+    "Prevented search indexing of the preserved promotional pages."
+  ]
+}

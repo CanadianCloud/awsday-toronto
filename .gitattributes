@@ -1,0 +1,10 @@
+# Preserve archived binary assets without line-ending conversion.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.mp4 binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
